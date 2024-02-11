@@ -1,0 +1,6 @@
+body {
+  color: #1C2025;
+  display: flex;
+  min-width: 1000px;
+  min-height: 100vh;
+}
