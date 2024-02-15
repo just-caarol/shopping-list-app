@@ -17,7 +17,7 @@ git clone https://github.com/just-caarol/shopping-list-app.git
 and install it locally using npm:
 
 ```
-$ cd ../shopping-list-app
+$ cd <shopping-list-app-directory>
 $ npm install (to install all the dependencies)
 $ npm run dev (to start the vite server) 
 ```
