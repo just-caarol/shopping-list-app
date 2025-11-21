@@ -10,8 +10,11 @@
 
 Simple app created with JavaScript - React.js, Vite.js, Material UI and CSS3 to put the acquired knowledge into practice and consolidate the use of these technologies and tools.
 
-<img src="public/demo1.mov" />
+Video demo of the application:
 
+<div align="center">
+<img src="public/demo.gif" height="700" />
+</div>
 ## Setup
 
 To run this project, clone this repo to your desktop using:
