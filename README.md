@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [General info](#general-info)
+- [Demo](#demo)
 - [Setup](#setup)
 - [Sources](#sources)
 
@@ -10,10 +11,12 @@
 
 Simple app created with JavaScript - React.js, Vite.js, Material UI and CSS3 to put the acquired knowledge into practice and consolidate the use of these technologies and tools.
 
+## Demo
+
 Video demo of the application:
 
 <div align="center">
-<img src="public/demo.gif" height="800" />
+<img src="public/demo.gif" height="700" />
 </div>
 
 ## Setup
