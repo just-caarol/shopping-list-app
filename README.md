@@ -11,6 +11,7 @@
 Simple app created with JavaScript - React.js, Vite.js, Material UI and CSS3 to put the acquired knowledge into practice and consolidate the use of these technologies and tools.
 
 <img src="public/demo.gif" />
+<img src="public/demo1.mov" />
 
 ## Setup
 
