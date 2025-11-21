@@ -10,7 +10,7 @@
 
 Simple app created with JavaScript - React.js, Vite.js, Material UI and CSS3 to put the acquired knowledge into practice and consolidate the use of these technologies and tools.
 
-![Shopping List Page](/public/screen1.png)
+![Shopping List Demo](/public/demo.mov)
 
 ## Setup
 
