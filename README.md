@@ -16,7 +16,7 @@ Simple app created with JavaScript - React.js, Vite.js, Material UI and CSS3 to 
 Video demo of the application:
 
 <div align="center">
-<img src="public/demo5.gif" />
+<img src="public/demo4.gif" />
 </div>
 
 ## Setup
